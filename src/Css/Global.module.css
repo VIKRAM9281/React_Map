@@ -1,0 +1,12 @@
+.ul li {
+    font-size: 19px;
+    font-weight: 700;
+    color: aqua;
+    list-style-type: none;
+    padding: 0px 20px 0px 10px;
+}
+
+.ul {
+    background-color: brown;
+    border-radius: 20px;
+}
